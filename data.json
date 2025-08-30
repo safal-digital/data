@@ -56,7 +56,7 @@
       },
       {
         "name": "About Us",
-        "href": "#about-us"
+        "href": "/#about-us"
       },
       {
         "name": "Contact",
@@ -434,5 +434,50 @@
         "loadingLabel": "Sending..."
       }
     }
+  },
+
+  "aboutUsPage": {
+    "about": {
+      "title": "About Us",
+      "description": "SAFAL Digital is a trusted IT and cybersecurity firm headquartered in Nepal, delivering secure software engineering, resilient web development, and risk-driven cybersecurity solutions. We serve a global client base, including partners in Nepal, the U.S., New Zealand, and Australia, by providing world-class digital services with a strategic cost advantage. Our team is composed of certified security professionals, expert software engineers, and client-focused project managers committed to upholding premier global standards, including ISO 27001, OWASP, and the NIST Cybersecurity Framework."
+    },
+    "missionVision": {
+      "mission": {
+        "title": "Mission",
+        "statement": "To deliver secure, scalable, and innovative dsigital solutions that empower organizations to thrive in the global digital economy.",
+        "focus": "Our mission focuses on providing the tools and services that enable people and businesses worldwide to achieve their full potential."
+      },
+      "vision": {
+        "title": "Vision",
+        "statement": "To become South Asia’s most respected and trusted partner for cybersecurity and technology outsourcing."
+      }
+    },
+    "coreValues": [
+      {
+        "title": "Security by Design",
+        "description": "We embed security into the core of every product and process, making it foundational, not an afterthought.",
+        "icon": "ArrowLeft"
+      },
+      {
+        "title": "Client-Centric Partnership",
+        "description": "We build transparent, collaborative, and long-term relationships focused on achieving mutual success.",
+        "icon": "ArrowLeft"
+      },
+      {
+        "title": "Unyielding Excellence",
+        "description": "We are dedicated to technical precision, continuous improvement, and delivering superior, measurable outcomes.",
+        "icon": "ArrowLeft"
+      },
+      {
+        "title": "Absolute Integrity",
+        "description": "We conduct our business with the highest ethical standards, ensuring trust and reliability in all our interactions.",
+        "icon": "ArrowLeft"
+      },
+      {
+        "title": "Global Insight, Local Execution",
+        "description": "We merge international best practices with a nuanced understanding of regional markets to deliver quality and value at scale.",
+        "icon": "ArrowLeft"
+      }
+    ]
   }
 }
