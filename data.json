@@ -128,6 +128,36 @@
       }
     ]
   },
+  "aboutSection": {
+    "imageUrl": "https://raw.githubusercontent.com/safal-digital/data/refs/heads/website-content/public/about-company.jpg",
+    "title1": "About",
+    "title2": "SAFAL Digital",
+    "descriptionOne": "SAFAL Digital is a leading IT firm in Kathmandu, Nepal, specializing in cybersecurity and data privacy. Founded to meet the rising need for secure digital solutions.",
+    "descriptionTwo": "We provide comprehensive cybersecurity services, helping organizations protect their digital assets, ensure compliance, and build resilient security frameworks that adapt to evolving threats.",
+    "stats": {
+      "trustedClients": {
+        "value": "7,800+",
+        "label": "Trusted Clients"
+      }
+    },
+    "keyPoints": {
+      "first": {
+        "icon": "Users",
+        "value": "50+",
+        "label": "Expert Team"
+      },
+      "second": {
+        "icon": "Award",
+        "value": "5+",
+        "label": "Years Experience"
+      },
+      "third": {
+        "icon": "Shield",
+        "value": "99.9%",
+        "label": "Success Rate"
+      }
+    }
+  },
   "services": [
     {
       "id": "cyber-maturity-assessment",
@@ -281,7 +311,7 @@
         "label": "Your Message",
         "placeholder": "Type your message here..."
       },
-      "submitButtson": {
+      "submitButton": {
         "label": "Send Message",
         "loadingLabel": "Sending..."
       }
