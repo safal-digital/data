@@ -1,4 +1,3 @@
-
 {
   "navbar": {
     "logoName": "Safal Digital",
@@ -87,12 +86,46 @@
     "title": "Trusted by 7,800+ brands around the world",
     "subtitle": "to send data-powered communication each day",
     "logos": [
-      "/logos/logo1.png",
-      "/logos/logo2.png",
-      "/logos/logo3.png",
-      "/logos/logo4.png",
-      "/logos/logo5.png",
-      "/logos/logo6.png"
+      {
+        "type": "image",
+        "content": "https://cdn.sanity.io/images/onirtmj2/production/bde48a1141bc879a416a7f0f69d6f323148b0b03-400x160.svg",
+        "alt": "Company A"
+      },
+      {
+        "type": "image",
+        "content": "https://cdn.sanity.io/images/onirtmj2/production/01a8b2b32cbc0c374e3c1ca143eab475e924d367-800x320.png?w=260&h=104&fit=fill&auto=format",
+        "alt": "Company B"
+      },
+      {
+        "type": "image",
+        "content": "https://cdn.sanity.io/images/onirtmj2/production/bde48a1141bc879a416a7f0f69d6f323148b0b03-400x160.svg",
+        "alt": "Company C"
+      },
+      {
+        "type": "image",
+        "content": "https://cdn.sanity.io/images/onirtmj2/production/5af942d053553a515d112f0887eb3a2763d59ed9-400x160.svg",
+        "alt": "Company D"
+      },
+      {
+        "type": "image",
+        "content": "https://cdn.sanity.io/images/onirtmj2/production/c24e2b138dd7a2ad11a1048c74c948b9d6c9c60a-400x160.svg",
+        "alt": "Company E"
+      },
+      {
+        "type": "image",
+        "content": "https://cdn.sanity.io/images/onirtmj2/production/0b8c00257fbd400810fa294016d15036746aa3a3-400x160.svg",
+        "alt": "Company F"
+      },
+      {
+        "type": "image",
+        "content": "https://cdn.sanity.io/images/onirtmj2/production/40fefd0778c7349df00708ae7beb974a363e3326-400x160.svg",
+        "alt": "Company G"
+      },
+      {
+        "type": "image",
+        "content": "https://cdn.sanity.io/images/onirtmj2/production/dd3a4b0f5991f59d7ef58334549a59f585d0098d-400x160.svg",
+        "alt": "Company H"
+      }
     ]
   },
   "services": [
