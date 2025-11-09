@@ -136,20 +136,20 @@
     "descriptionTwo": "We provide comprehensive cybersecurity services, helping organizations protect their digital assets, ensure compliance, and build resilient security frameworks that adapt to evolving threats.",
     "stats": {
       "trustedClients": {
-        "value": "7,800+",
+        "value": "20+",
         "label": "Trusted Clients"
       }
     },
     "keyPoints": {
       "first": {
         "icon": "Users",
-        "value": "50+",
+        "value": "12+",
         "label": "Expert Team"
       },
       "second": {
         "icon": "Award",
-        "value": "5+",
-        "label": "Years Experience"
+        "value": "90",
+        "label": "Industry Experience"
       },
       "third": {
         "icon": "Shield",
@@ -339,20 +339,20 @@
 
   "footer": {
     "findUsText": "Find Us",
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.6869048469847!2d85.31398931506213!3d27.69769998280244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb198a307baabf%3A0xb5137c1bf18db1ea!2sKathmandu%2044600%2C%20Nepal!5e0!3m2!1sen!2s!4v1642678901234!5m2!1sen!2s",
+    "locationUrl": "https://www.google.com/maps/place/SAFAL+Partners/@27.7161276,85.3249157,19z/data=!4m14!1m7!3m6!1s0x39eb190fe956fa6d:0x25efe32601fdba1d!2sSAFAL+Partners!8m2!3d27.7161949!4d85.3249576!16s%2Fg%2F11f37bb6g6!3m5!1s0x39eb190fe956fa6d:0x25efe32601fdba1d!8m2!3d27.7161949!4d85.3249576!16s%2Fg%2F11f37bb6g6?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D",
     "companyInfo": {
-      "name": " SAFAL Digital",
+      "name": "SAFAL Digital",
       "shortDescription": " SAFAL Digital is a leading IT firm in Kathmandu, Nepal,specializing in cybersecurity and data privacy. Founded to meet the rising need for secure digital solutions.",
-      "address": "Kathmandu, Nepal",
-      "phone": "+977-9801234567",
+      "address": "Naag Pokhari, Khathmandu, Nepal",
+      "phone": "+977-9801973562",
       "email": "info@safal-digital.com",
       "contactInfoHeaderTitle": "Contact Info",
       "socialMedia": {
-        "facebookUrl": "https://www.facebook.com/safaldigital",
-        "twitterUrl": "https://twitter.com/safaldigital",
-        "linkedinUrl": "https://www.linkedin.com/company/safal-digital",
-        "instagramUrl": "https://www.instagram.com/safaldigital/",
-        "youtubeUrl": "https://www.youtube.com/@safaldigital"
+        "facebookUrl": "https://www.safal-digital.com/contact",
+        "twitterUrl": "https://www.safal-digital.com/contact",
+        "linkedinUrl": "https://www.safal-digital.com/contact",
+        "instagramUrl": "https://www.safal-digital.com/contact",
+        "youtubeUrl": "https://www.safal-digital.com/contact"
       }
     },
     "quickLinks": {
