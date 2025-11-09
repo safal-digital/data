@@ -39,13 +39,6 @@
             "featured": true
           },
           {
-            "id": "policy-procedures",
-            "icon": "FileText",
-            "title": "Policy Development",
-            "description": "Develop comprehensive security policies tailored to your organization's needs.",
-            "featured": false
-          },
-          {
             "id": "third-party-risk",
             "icon": "Users",
             "title": "Third-Party Risk Assessment",
@@ -193,13 +186,6 @@
       "title": "Security Audits",
       "description": "Comprehensive security assessments and infrastructure vulnerability reviews.",
       "featured": true
-    },
-    {
-      "id": "policy-procedures",
-      "icon": "FileText",
-      "title": "Policy Development",
-      "description": "Develop comprehensive security policies tailored to your organization's needs.",
-      "featured": false
     },
     {
       "id": "third-party-risk",
