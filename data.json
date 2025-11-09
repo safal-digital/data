@@ -164,6 +164,7 @@
       "icon": "Shield",
       "title": "Cyber Maturity Assessment",
       "description": "Evaluate your organization's cybersecurity posture with comprehensive risk analysis.",
+      "tags":["Free"],
       "featured": true
     },
     {
@@ -385,6 +386,10 @@
           "name": "Cyber Security Assessment",
           "href": "/services/cyber-maturity-assessment"
         },
+         {
+          "name": "PCI DSS Readiness Consulting",
+          "href": "/services/pci-dss-readiness"
+        },
         {
           "name": "ISO 27001 Compliance",
           "href": "/services/iso-readiness-review"
@@ -392,10 +397,6 @@
         {
           "name": "Penetration Testing",
           "href": "/services/vulnerability-testing"
-        },
-        {
-          "name": "Security Training",
-          "href": "/services/security-training"
         },
         {
           "name": "Risk Assessment",
