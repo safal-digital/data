@@ -51,6 +51,13 @@
             "title": "Penetration Testing",
             "description": "Identify and test security vulnerabilities with detailed reporting and remediation.",
             "featured": true
+          },
+          {
+            "id":"PCI DSS READINESS",
+            "icon":"Lock",
+            "title":"PCI DSS READINESS",
+            "description": "Get audit-ready with tailored PCI DSS assessments and action plans.",
+            "featured":true
           }
         ]
       },
