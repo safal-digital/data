@@ -53,9 +53,9 @@
             "featured": true
           },
           {
-            "id":"PCI DSS READINESS",
+            "id":"pci-dss-readiness",
             "icon":"Lock",
-            "title":"PCI DSS READINESS",
+            "title":"PCI DSS Readiness Consulting",
             "description": "Get audit-ready with tailored PCI DSS assessments and action plans.",
             "featured":true
           }
@@ -207,6 +207,13 @@
       "title": "Penetration Testing",
       "description": "Identify and test security vulnerabilities with detailed reporting and remediation.",
       "featured": true
+    },
+    {
+            "id":"pci-dss-readiness",
+            "icon":"Lock",
+            "title":"PCI DSS Readiness Consulting",
+            "description": "Get audit-ready with tailored PCI DSS assessments and action plans.",
+            "featured":true
     }
   ],
 
@@ -323,7 +330,23 @@
           "Detailed remediation guidance with proof-of-concept examples",
           "Retesting services to validate security improvements"
         ]
-      }
+      },
+      {
+      "id": "pci-dss-readiness",
+      "title": "PCI DSS Readiness Consulting",
+      "shortDescription": "Prepare your organization for PCI DSS compliance",
+      "description": "Our PCI DSS Readiness Consulting service helps organizations prepare for successful compliance with the Payment Card Industry Data Security Standard (PCI DSS). We assess your current environment, identify gaps, and provide a clear, actionable roadmap to achieve compliance efficiently.",
+      "image1": "/images/services/pci-dss-readiness-one.jpg",
+      "image2": "/images/services/pci-dss-readiness-two.jpg",
+      "icon": "Lock",
+      "bulletPoints": [
+        "Gap Analysis: Understand where your systems and processes fall short of PCI DSS requirements",
+        "Risk-Based Recommendations: Prioritize remediation efforts based on business impact and compliance needs",
+        "Policy & Process Alignment: Ensure documentation and practices meet PCI DSS standards",
+        "Technical Guidance: Support for secure network architecture, encryption, and vulnerability management",
+        "Audit Preparation: Equip your team with the evidence and confidence needed for QSA assessments or SAQs"
+      ]
+     }
     ]
   },
 
