@@ -339,11 +339,11 @@
 
   "footer": {
     "findUsText": "Find Us",
-    "locationUrl": "https://www.google.com/maps/place/SAFAL+Partners/@27.7161276,85.3249157,19z/data=!4m14!1m7!3m6!1s0x39eb190fe956fa6d:0x25efe32601fdba1d!2sSAFAL+Partners!8m2!3d27.7161949!4d85.3249576!16s%2Fg%2F11f37bb6g6!3m5!1s0x39eb190fe956fa6d:0x25efe32601fdba1d!8m2!3d27.7161949!4d85.3249576!16s%2Fg%2F11f37bb6g6?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d883.0093816461178!2d85.3249157!3d27.7161276!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb190fe956fa6d%3A0x25efe32601fdba1d!2sSAFAL%20Partners!5e0!3m2!1sen!2snp!4v1762689182575!5m2!1sen!2snp",
     "companyInfo": {
       "name": "SAFAL Digital",
       "shortDescription": " SAFAL Digital is a leading IT firm in Kathmandu, Nepal,specializing in cybersecurity and data privacy. Founded to meet the rising need for secure digital solutions.",
-      "address": "Naag Pokhari, Khathmandu, Nepal",
+      "address": "Naag Pokhari, Kathmandu, Nepal",
       "phone": "+977-9801973562",
       "email": "info@safal-digital.com",
       "contactInfoHeaderTitle": "Contact Info",
