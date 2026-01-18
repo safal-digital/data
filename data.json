@@ -132,8 +132,8 @@
     "imageUrl": "https://raw.githubusercontent.com/safal-digital/data/refs/heads/website-content/public/about-company.jpg",
     "title1": "About",
     "title2": "SAFAL Digital",
-    "descriptionOne": "SAFAL Digital is a leading IT firm in Kathmandu, Nepal, specializing in cybersecurity and data privacy. Founded to meet the rising need for secure digital solutions.",
-    "descriptionTwo": "We provide comprehensive cybersecurity services, helping organizations protect their digital assets, ensure compliance, and build resilient security frameworks that adapt to evolving threats.",
+    "descriptionOne": "SAFAL Digital is run by professionals with 90 years of cumulative IT and business experiences in the US, Australia, New Zealand, Belgium, and Nepal.  SAFAL Digital delivers secure software engineering, resilient web solutions, risk-managed cybersecurity and Al solutions that empower organizations to operate and compete with confidence. ",
+    "descriptionTwo": "SAFAL Digital’s team includes certified cyber security specialists, senior software engineers and client-focused project managers. They are all committed to upholding premier global standards, including ISO 27001, OWASP and NIST Cybersecurity Framework. SAFAL Digital operates with one core promise: global quality, zero compromise.",
     "stats": {
       "trustedClients": {
         "value": "20+",
@@ -342,10 +342,10 @@
     "findUsText": "Find Us",
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d883.0093816461178!2d85.3249157!3d27.7161276!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb190fe956fa6d%3A0x25efe32601fdba1d!2sSAFAL%20Partners!5e0!3m2!1sen!2snp!4v1762689182575!5m2!1sen!2snp",
     "companyInfo": {
-      "name": "SAFAL Digital",
+      "name": "SAFAL Digital Pvt. Ltd.",
       "shortDescription": " SAFAL Digital is a leading IT firm in Kathmandu, Nepal,specializing in cybersecurity and data privacy. Founded to meet the rising need for secure digital solutions.",
       "address": "Naag Pokhari, Kathmandu, Nepal",
-      "phone": "+977-9801973562",
+      "phone": "(+977) 985-107-4325",
       "email": "info@safal-digital.com",
       "contactInfoHeaderTitle": "Contact Info",
       "socialMedia": {
@@ -457,14 +457,13 @@
   "aboutUsPage": {
     "about": {
       "title": "About Us",
-      "description": "SAFAL Digital is a trusted IT and cybersecurity firm headquartered in Nepal, delivering secure software engineering, resilient web development, and risk-driven cybersecurity solutions. We serve a global client base, including partners in Nepal, the U.S., New Zealand, and Australia, by providing world-class digital services with a strategic cost advantage. Our team is composed of certified security professionals, expert software engineers, and client-focused project managers committed to upholding premier global standards, including ISO 27001, OWASP, and the NIST Cybersecurity Framework."
+      "description": "SAFAL Digital is run by professionals with 90 years of cumulative IT and business experiences in the US, Australia, New Zealand, Belgium, and Nepal.  SAFAL Digital delivers secure software engineering, resilient web solutions, risk-managed cybersecurity and Al solutions that empower organizations to operate and compete with confidence."
     },
     "missionVision": {
       "imageUrl": "https://media.istockphoto.com/id/808157682/photo/young-female-government-employee-wearing-glasses-uses-tablet-in-system-control-center-in-the.webp?a=1&b=1&s=612x612&w=0&k=20&c=m15jYXh6sSjB7HbwAnJpVbpTpbQQTjXAoLRyU7GMn-U=",
       "mission": {
         "title": "Mission",
-        "statement": "To deliver secure, scalable, and innovative dsigital solutions that empower organizations to thrive in the global digital economy.",
-        "focus": "Our mission focuses on providing the tools and services that enable people and businesses worldwide to achieve their full potential."
+        "statement": "To consistently deliver secure, scalable, reliable and innovative IT solutions that enable clients to operate smarter, faster and safer."
       },
       "vision": {
         "title": "Vision",
@@ -474,27 +473,27 @@
     "coreValues": [
       {
         "title": "Security by Design",
-        "description": "We embed security into the core of every product and process, making it foundational, not an afterthought.",
+        "description": "Security is engineered into every layer of SAFAL Digital’s work, in each process and the product.",
         "icon": "ArrowLeft"
       },
       {
         "title": "Client-Centric Partnership",
-        "description": "We build transparent, collaborative, and long-term relationships focused on achieving mutual success.",
+        "description": "SAFAL Digital collaborates transparently to deliver success that is measurable and long-lasting.",
         "icon": "ArrowLeft"
       },
       {
         "title": "Unyielding Excellence",
-        "description": "We are dedicated to technical precision, continuous improvement, and delivering superior, measurable outcomes.",
+        "description": "SAFAL Digital is dedicated to technical precision, continuous improvement that delivers superior, measurable outcomes.",
         "icon": "ArrowLeft"
       },
       {
         "title": "Absolute Integrity",
-        "description": "We conduct our business with the highest ethical standards, ensuring trust and reliability in all our interactions.",
+        "description": "SAFAL Digital operates its business with utmost ethical standards, ensuring trust and reliability in all interactions.",
         "icon": "ArrowLeft"
       },
       {
         "title": "Global Insight, Local Execution",
-        "description": "We merge international best practices with a nuanced understanding of regional markets to deliver quality and value at scale.",
+        "description": "SAFAL Digital blends the international best practices with a nuanced understanding of international markets to deliver quality and value at scale.",
         "icon": "ArrowLeft"
       }
     ]
